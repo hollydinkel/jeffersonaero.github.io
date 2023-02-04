@@ -1,7 +1,4 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
@@ -18,8 +15,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Personal portfolio website for Holly Dinkel.'
+    twitter: 'JeffersonAero'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +40,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '©2023 Holly Dinkel.'
     license:
       enable: true
       allow_derivatives: false
@@ -68,7 +65,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/JeffersonAero/jeffersonaero.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -87,7 +84,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: google
     algolia:
       app_id: ''
       api_key: ''
